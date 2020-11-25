@@ -37,10 +37,10 @@ O procedimento para executar o script em sua máquina é muito simples:
 1. Certifique-se de ter os seguintes arquivos baixados em seu computador: **cards.html e styles.css**.
 2. Crie um diretório e coloque os dois arquivos dentro.
 
-![](https://github.com/thiagosantos0/teste55/blob/main/imagens/Captura%20de%20tela%20de%202020-11-25%2019-21-24.png)
+![](https://github.com/Covid-Data-Analytics-UFMG-DataSet/Scripts-Tabela-Portal/blob/main/imagens/diretorio.png)
 
 Está tudo pronto, basta abrir o arquivo html em um navegador. Este html tem um código javascript que realiza a chamada dos dados sempre que a página sofre algum tipo de atualização, deste modo não há a necessidade de executá-lo manualmente.
 *(A aparência dos cards na imagem abaixo é referente ao dia 25/11/2020)*
 
-![](https://github.com/thiagosantos0/teste55/blob/main/imagens/im2.png)
+![](https://github.com/Covid-Data-Analytics-UFMG-DataSet/Scripts-Tabela-Portal/blob/main/imagens/cards.png)
 
