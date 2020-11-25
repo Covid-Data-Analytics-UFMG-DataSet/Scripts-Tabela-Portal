@@ -1,0 +1,42 @@
+.container {
+    max-width: 100% !important;
+    margin: 15%;
+}
+.col{
+    margin: 4.159%;
+}
+.card-title{
+    margin-top: 3%;
+    margin-bottom: 2.6% !important;
+    color:#234a6b;
+}
+.card-subtitle{
+    margin: 0% 23% 0% 23% !important;
+}
+#sub{
+    color:#475168 !important;
+}
+.card{
+    background-image: linear-gradient(to bottom right, white,#496b8e);
+}
+
+
+/*Tabela original*/
+table {
+    margin: 0 auto;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid #d4d4d4;
+  }
+   
+  tr:nth-child(even) {
+    background: #d4d4d4;
+  }
+   
+  th, td {
+    padding: 10px 30px;
+  }
+   
+  th {
+    border-bottom: 1px solid #d4d4d4;
+  }  
